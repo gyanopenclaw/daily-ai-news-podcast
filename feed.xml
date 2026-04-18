@@ -20,6 +20,15 @@
     <itunes:image href="https://gyanopenclaw.github.io/daily-ai-news-podcast/cover.jpg"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI Builders Digest — Saturday, April 18, 2026</title>
+      <description><![CDATA[AI Builders Digest の未読メール本文から生成した音声エピソード。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1_V7Fp7MFBkugnGLdORgv4NUeShLnY2Kr" type="audio/x-m4a"/>
+      <guid isPermaLink="false">998dc14b-85de-4307-9da8-0993bff3f299</guid>
+      <pubDate>Sun, 19 Apr 2026 00:59:22 +0900</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ネットの訪問者がAIに入れ替わる衝撃</title>
       <description><![CDATA[AIがインターネットのトラフィックに占める割合が急増している現象について解説するエピソード。]]></description>
       <enclosure url="https://drive.google.com/uc?export=download&id=1PX0ERhOmT6yFXzsJZX2057wk05oitI-B" length="42799959" type="audio/x-m4a"/>
