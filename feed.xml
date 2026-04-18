@@ -19,6 +19,15 @@
     <itunes:category text="Technology"/>
     <itunes:image href="https://gyanopenclaw.github.io/daily-ai-news-podcast/cover.jpg"/>
     <!-- EPISODES_START -->
+    <item>
+      <title>ネットの訪問者がAIに入れ替わる衝撃</title>
+      <description><![CDATA[AIがインターネットのトラフィックに占める割合が急増している現象について解説するエピソード。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1PX0ERhOmT6yFXzsJZX2057wk05oitI-B" length="42799959" type="audio/x-m4a"/>
+      <guid isPermaLink="false">3a9633e0-ff40-402e-8aee-7a0b29279700</guid>
+      <pubDate>Sun, 19 Apr 2026 00:48:55 +0900</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES_END -->
   </channel>
 </rss>
