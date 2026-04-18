@@ -20,6 +20,24 @@
     <itunes:image href="https://gyanopenclaw.github.io/daily-ai-news-podcast/cover.jpg"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI Builders Digest — Saturday, April 18, 2026 (EN)</title>
+      <description><![CDATA[AI Builders Digest の未読メール本文から生成した英語版音声エピソード。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1LepG7__yzNnRPUpbEPE0SHEhVUqU9oqM" length="48029591" type="audio/x-m4a"/>
+      <guid isPermaLink="false">9f12eeeb-6252-4436-be74-2c5beb545999</guid>
+      <pubDate>Sun, 19 Apr 2026 06:05:41 +0900</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI Builders Digest — Saturday, April 18, 2026 (JP)</title>
+      <description><![CDATA[AI Builders Digest の未読メール本文から生成した日本語版音声エピソード。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1Yt8yV0tQw-ljmE7Xn2t2pdS2vCr75jSg" length="1074759" type="audio/x-m4a"/>
+      <guid isPermaLink="false">db58d712-1e8b-4c4b-9a16-4df4efcfd666</guid>
+      <pubDate>Sun, 19 Apr 2026 06:05:41 +0900</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI Builders Digest — Saturday, April 18, 2026</title>
       <description><![CDATA[AI Builders Digest の未読メール本文から生成した音声エピソード。]]></description>
       <enclosure url="https://drive.google.com/uc?export=download&id=1_V7Fp7MFBkugnGLdORgv4NUeShLnY2Kr" type="audio/x-m4a"/>
