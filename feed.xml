@@ -20,6 +20,15 @@
     <itunes:image href="https://gyanopenclaw.github.io/daily-ai-news-podcast/cover.jpg"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI Builders Digest — Tuesday, April 21, 2026 (JP)</title>
+      <description><![CDATA[AI Builders Digest のメール本文から NotebookLM で生成した日本語版音声エピソード。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xsYY8Obj1w7GIx0iqtM9Yv_5TyUPaztF" length="39658249" type="audio/mpeg"/>
+      <guid isPermaLink="false">c98ae83c-577e-49c4-8cbb-da7655850d50</guid>
+      <pubDate>Tue, 21 Apr 2026 17:22:00 +0900</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI Builders Digest — Monday, April 20, 2026 (JP)</title>
       <description><![CDATA[AI Builders Digest の未読メール本文から NotebookLM で生成した日本語版音声エピソード。]]></description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LS-rA-LUETFjm1Rgd7ntqpVUUFp75LEv" length="12306031" type="audio/x-m4a"/>
